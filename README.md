@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Demir Aydin. I am a freshman at Bilkent University. I love programming and listening to music. 
 
 <!--
 **demiraydin01/demiraydin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
